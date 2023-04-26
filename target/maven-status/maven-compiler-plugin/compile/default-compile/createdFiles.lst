@@ -1,0 +1,6 @@
+com/jboss/spring/services/BaseOperacionService.class
+com/jboss/spring/controller/CalculadoraController.class
+com/jboss/spring/ServletInitializer.class
+com/jboss/spring/model/CalculadoraModel.class
+com/jboss/spring/SpringJbossApplication.class
+com/jboss/spring/services/OperacionService.class
